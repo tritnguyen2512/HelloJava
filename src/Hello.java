@@ -7,9 +7,10 @@ public class Hello
 {
     public static void main(String args[])
     {
+        int arr[] = new int[4];
+        int num = arr[4];
 
-        String str = null;
-        System.out.println(str.length());
+        System.out.println("This is last line.");
 
     }
 }
